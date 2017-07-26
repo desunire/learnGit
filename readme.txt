@@ -4,3 +4,4 @@ change txt then submit origin
 create a new branch is good
 create a new branch again
 no--ff stage
+clone from github
